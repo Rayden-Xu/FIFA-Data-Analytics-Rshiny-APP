@@ -3,7 +3,7 @@
 
 **Quick Portal**
 
-| **--->** [1.Script (Server)](server.R) | [Script (UI)](ui.R)
+| **--->** [1.Script (Server)](server.R) | [Script (UI)](ui.R) |
 
 | **--->** [2.ShinyAPP Website](https://hcproject.shinyapps.io/IE6600FinalProject/) |
 
