@@ -7,5 +7,5 @@
 
 | **--->** [2.ShinyAPP Website](https://hcproject.shinyapps.io/IE6600FinalProject/) |
 
-| **--->** [3.Analytics Report](Analytics-Report.pdf) |
+| **--->** [3.Analytics Report](Analytics Report.pdf) |
 
